@@ -146,6 +146,8 @@ python detect.py --weights yolov7.pt --conf 0.25 --img-size 640 --source inferen
     </a>
 </div>
 
+On image with inference engine：
+
 [YOLOv7 inference with TensorRT/ONNX Runtime/OpenVINO/Paddle Inference、Python/C++、Windows/Linux](https://github.com/PaddlePaddle/FastDeploy/blob/develop/examples/vision/detection/yolov7/README_EN.md)
 
 
